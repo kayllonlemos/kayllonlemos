@@ -10,7 +10,7 @@ Atualmente, curso Análise e Desenvolvimento de Sistemas na Fatec, enquanto me c
 
 Se quiser saber mais sobre meus projetos, eles estarão disponíveis aqui!
 
-### Curiosidades:
+##### Curiosidades:
 * Não gosto de couve.
 * Adoro castanhas.
 * Hobbies: leitura, academia, jogos, animes e mangás.
