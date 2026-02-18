@@ -9,8 +9,3 @@ Minhas principais habilidades incluem operações em SQL, programação em VBA e
 Atualmente, curso Análise e Desenvolvimento de Sistemas na Fatec, enquanto me capacito em Python e Gestão de Projetos.
 
 Se quiser saber mais sobre meus projetos, eles estarão disponíveis aqui!
-
-#### Curiosidades:
-* Não gosto de couve.
-* Adoro castanhas.
-* Hobbies: leitura, academia, jogos, animes e mangás.
